@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   font-family: "Kavoon", cursive;
   background: #16222a;
   /* fallback for old browsers */
